@@ -14,7 +14,7 @@ const DIFFICULTY_EASY = "EASY";
 const GAME_MODE_DEFAULT = "CLASSIC";
 const GAME_MODE_CLASSIC = "CLASSIC";
 const GAME_MODE_CLOCK = "CLOCK RACE";
-
+// by ranin
 export {
     LIVES_DEFAULT,
     LIVES_THREE,
